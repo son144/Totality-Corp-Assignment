@@ -1,0 +1,13 @@
+h3 {
+  font-family: "Quarto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+  letter-spacing: 0.02em;
+  margin-top: 50px;
+  color: #1b2e78;
+}
+.container {
+  background: #e5e5e5;
+}

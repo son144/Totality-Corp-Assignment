@@ -1,0 +1,16 @@
+.card-text {
+  font-family: "Eina02-Regular";
+  font-size: 14px;
+  line-height: 11px;
+}
+.card-title {
+  font-family: "Quarto";
+  font-style: normal;
+  margin-top: 0%;
+  font-weight: 60;
+  font-size: 20px;
+  line-height: 10px;
+}
+img {
+  border-radius: 12px;
+}

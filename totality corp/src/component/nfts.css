@@ -1,0 +1,38 @@
+.my {
+  background: linear-gradient(
+    180deg,
+    rgba(192, 197, 207, 0.24) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  backdrop-filter: blur(120px);
+  border-radius: 12px;
+}
+.row {
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.53) 0%,
+    rgba(255, 255, 255, 0.6) 100%
+  );
+  backdrop-filter: blur(81px);
+  border-radius: 8px;
+}
+h1 {
+  color: #263f9b;
+}
+h5 {
+  color: #263f9b;
+  text-align: center;
+}
+.card-text {
+  font-family: "Eina03-Regular";
+  font-size: 18px;
+  line-height: 30px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #232323;
+}

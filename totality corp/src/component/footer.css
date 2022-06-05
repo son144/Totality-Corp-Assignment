@@ -1,0 +1,15 @@
+.ser {
+  font-family: "Eina01-Regular";
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #004adf;
+}
+
+.up {
+  font-family: "Eina02-Regular";
+  font-size: 15px;
+  line-height: 18px;
+  color: black;
+}
